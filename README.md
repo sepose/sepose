@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sepose
-- 👀 I’m interested in ... making website
-- 🌱 I’m currently learning ... nothing
+- 👀 I’m interested in ... making Embedded Program
+- 🌱 I’m currently learning ... Linux & C & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... x
 
