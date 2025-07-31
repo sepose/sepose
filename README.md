@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sepose
 - 👀 I’m interested in ... making Embedded Program
-- 🌱 I’m currently learning ... C & C++ & VHDL
+- 🌱 I’m currently learning ... C & C++
 
 <!---
 sepose/sepose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
