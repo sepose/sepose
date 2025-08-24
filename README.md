@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sepose
-- 👀 I’m interested in ... making Embedded Program
+- 👀 I’m interested in ... making Embedded System
 - 🌱 I’m currently learning ... C & C++
 
 <!---
