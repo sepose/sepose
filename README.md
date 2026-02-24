@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sepose
-- 👀 I’m interested in ... making Robot System
+- 👀 I’m interested in ... making Embedded & Robot System
 - 🌱 I’m currently learning ... C & C++ & Python
